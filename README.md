@@ -123,5 +123,3 @@ This repository is licensed under the MIT License.
 ---
 
 **Explore each project folder for detailed analysis, code, and results!**
-```
-
