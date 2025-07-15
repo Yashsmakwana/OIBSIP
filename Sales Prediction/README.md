@@ -37,7 +37,7 @@ Sales Prediction/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Yashsmakwana/OIBSIP.git
-   cd Sales_Prediction
+   cd OIBSIP/"Sales Prediction"
    ```
 
 2. **Install dependencies:**
