@@ -21,7 +21,7 @@ This project demonstrates how to use machine learning to predict product sales b
 ## Project Structure
 
 ```python
-sales-prediction/
+Sales Prediction/
 │
 ├── Sales Prediction.ipynb    # Jupyter notebook with code and analysis
 ├── Advertising.csv           # Dataset (or link to Kaggle)
@@ -36,8 +36,8 @@ sales-prediction/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/sales-prediction.git
-   cd sales-prediction
+   git clone https://github.com/Yashsmakwana/OIBSIP.git
+   cd Sales_Prediction
    ```
 
 2. **Install dependencies:**
