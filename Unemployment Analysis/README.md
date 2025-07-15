@@ -41,7 +41,7 @@ Unemployment Analysis/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Yashsmakwana/OIBSIP.git
-   cd Unemployment_Analysis
+   cd OIBSIP/"Unemployment Analysis"
 
 ### Install dependencies:
   ```bash
