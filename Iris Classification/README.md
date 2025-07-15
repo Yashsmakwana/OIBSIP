@@ -38,7 +38,7 @@ Iris_Classification
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Yashsmakwana/OIBSIP.git
-   cd Iris_Classification
+   cd OIBSIP/"Iris Classification"
    ```
 
 2. **Install dependencies:**
