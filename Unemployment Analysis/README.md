@@ -25,7 +25,7 @@ This project analyzes the unemployment rate in India using data science techniqu
 
 ## Project Structure:
 ```python
-unemployment-analysis/ 
+Unemployment Analysis/ 
 │ 
 ├── Unemployment in india.ipynb # Jupyter notebook with code and analysis 
 ├── Unemployment in India.csv   # Dataset (or link to Kaggle) 
@@ -40,8 +40,8 @@ unemployment-analysis/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/unemployment-analysis.git
-   cd unemployment-analysis
+   git clone https://github.com/Yashsmakwana/OIBSIP.git
+   cd Unemployment_Analysis
 
 ### Install dependencies:
   ```bash
