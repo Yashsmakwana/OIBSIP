@@ -23,7 +23,7 @@ This project uses machine learning to classify iris flowers into three species�
 ## Project Structure
 
 ```python
-iris-classification
+Iris_Classification
 │
 ├── iris_classification.ipynb   # Jupyter notebook with code and analysis
 ├── iris.csv                    # Dataset (if not using sklearn's built-in)
@@ -37,8 +37,8 @@ iris-classification
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/iris-classification.git
-   cd iris-classification
+   git clone https://github.com/Yashsmakwana/OIBSIP.git
+   cd Iris_Classification
    ```
 
 2. **Install dependencies:**
@@ -47,7 +47,7 @@ iris-classification
    ```
 
 3. **Run the notebook:**
-   - Open `iris_classification.ipynb` in Jupyter Notebook or JupyterLab.
+   - Open `iris classification.ipynb` in Jupyter Notebook or JupyterLab.
    - Run the cells step by step.
 
 ---
